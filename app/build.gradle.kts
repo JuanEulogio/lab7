@@ -2,9 +2,9 @@ plugins {
     id("com.android.application")
 }
 
-android {
+android{
     namespace = "com.cs407.lab7"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.cs407.lab7"
