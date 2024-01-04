@@ -30,7 +30,6 @@ public class NotificationHelper {
     private NotificationHelper() {}
 
 
-
     //The getter getInstance returns a reference of the only instance
     public static NotificationHelper getInstance() {
         return INSTANCE;
